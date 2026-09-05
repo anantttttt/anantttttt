@@ -1,16 +1,23 @@
-## Hi there 👋
+# Anant Sharma
 
-<!--
-**anantttttt/anantttttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Machine Learning · Computer Science
 
-Here are some ideas to get you started:
+I'm a Computer Science student specializing in Artificial Intelligence and Machine Learning. I enjoy building practical software, experimenting with AI systems, and learning by turning ideas into working things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring machine learning, generative AI, RAG, agentic systems, and AI-powered applications.
+
+I'm particularly interested in how intelligent systems can be made useful, reliable, and accessible through software.
+
+## Interests
+
+Artificial Intelligence  
+Machine Learning  
+Generative AI  
+Agentic AI  
+Retrieval-Augmented Generation  
+Data Science
+
+## Currently
+
+Learning, building, and experimenting with AI systems.
+
